@@ -1,0 +1,10 @@
+$npm init--
+$npm install express --to include the node modules and package-lock.json
+$node  index.js --to run individual file
+14/11/23:by nishant
+// console.log(__dirname);
+// console.log(__filename);
+// // console.log(__requirename);
+// console.log(module);
+// console.log(process);
+// setInterval(()=> {console.log("hello world");}, 1000);\
